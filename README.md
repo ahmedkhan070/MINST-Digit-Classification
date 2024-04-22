@@ -75,7 +75,7 @@ The MNIST digit classification task involves training a machine learning model t
 ## References
 
 - [TensorFlow Documentation](https://www.tensorflow.org/)
-- [PyTorch Documentation](https://pytorch.org/)
+- [Code with harry Youtube Channel ]([https://pytorch.org/](https://www.youtube.com/@CodeWithHarry)
 - [Keras Documentation](https://keras.io/)
 
 ## Conclusion
